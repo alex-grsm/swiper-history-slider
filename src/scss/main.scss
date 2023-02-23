@@ -1,0 +1,234 @@
+// базовые подключения
+@import 'vars';
+@import 'mixins';
+@import 'fonts';
+@import 'settings';
+
+// подключения компонентов страницы
+// @import './components/header';
+
+.site-container {
+  margin: 50px 0;
+}
+
+.history-swiper-wrap {
+  position: relative;
+  overflow: hidden;
+  display: block;
+
+  @media (min-width: 1200px) {
+    min-height: 700px;
+    max-height: 700px;
+    display: flex;
+  }
+}
+
+/** MAIN swiper */
+.history-swiper {
+  width: 100%;
+
+  @media (min-width: 1200px) {
+    max-width: 850px;
+  }
+
+  &__slide {
+    display: flex;
+    flex-direction: column;
+    // min-height: 600px;
+
+    @media (min-width: 992px) {
+      // min-height: 500px;
+    }
+
+    @media (min-width: 1200px) {
+      min-height: 700px;
+    }
+  }
+
+  &__description {
+    font-size: 27px;
+    line-height: 116%;
+
+    @media (max-width: 992px) {
+      font-size: 20px;
+    }
+
+    strong {
+    }
+    p {
+      margin: 0;
+    }
+  }
+
+  &__img {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 100%;
+    position: unset;
+    overflow: hidden;
+    margin-top: 30px;
+
+    @media (min-width: 1200px) {
+      margin-top: 0;
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+
+    img {
+      max-height: 470px;
+      min-height: 470px;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+/** DATES swiper */
+.history-dates {
+  min-height: 30px;
+  margin-bottom: 40px;
+
+  @media (min-width: 1200px) {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    max-height: 700px;
+    margin-bottom: 0;
+  }
+
+  .swiper-wrapper {
+    @media (min-width: 1200px) {
+      position: absolute;
+      top: -335px;
+    }
+  }
+
+  .swiper-slide {
+    max-height: 30px;
+  }
+
+  &__item {
+    height: 30px;
+    position: relative;
+    opacity: 0.7;
+    cursor: pointer;
+    padding-left: 72px;
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      height: 1px;
+      width: 64px;
+      background-color: #000;
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 8px;
+      height: 8px;
+      background-color: #fff;
+      border: 1px solid #000000;
+    }
+
+    .pYear {
+      display: block;
+      color: #000;
+      font-size: 26px;
+      line-height: 30px;
+      position: relative;
+      width: 100%;
+      &:before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        transform: translateН(-50%);
+        right: 15px;
+        width: calc(100% - 100px);
+        height: 1px;
+        background-color: #000;
+        opacity: 0;
+        display: none;
+
+        @media (min-width: 1200px) {
+          display: block;
+        }
+      }
+    }
+  }
+
+  .swiper-slide {
+    // max-height: 30px;
+    &-active {
+      .history-dates__item {
+        opacity: 1;
+        &:after {
+          background-color: #000;
+        }
+        .pYear {
+          font-weight: 700;
+          &:before {
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+
+  &__nav {
+    z-index: 888;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #fff;
+    padding-top: 5px;
+    display: none;
+    @media (min-width: 1200px) {
+      display: flex;
+    }
+    &-arr {
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-left: 35px;
+      cursor: pointer;
+    }
+    &-prev {
+    }
+    &-next {
+    }
+  }
+}
+
+// .swiper-slide {
+//   text-align: center;
+//   font-size: 18px;
+//   background: #fff;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+// .swiper-pagination-bullet {
+//   width: 20px;
+//   height: 20px;
+//   text-align: center;
+//   line-height: 20px;
+//   font-size: 12px;
+//   color: #000;
+//   opacity: 1;
+//   background: rgba(0, 0, 0, 0.2);
+// }
