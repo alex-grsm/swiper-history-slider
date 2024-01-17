@@ -1,0 +1,217 @@
+{
+  "dates": [
+    { "date": "1988" },
+    { "date": "1996" },
+    { "date": "1997" },
+    { "date": "2000" },
+    { "date": "2000" },
+    { "date": "2001" },
+    { "date": "2001" },
+    { "date": "2001" },
+    { "date": "2005" },
+    { "date": "2007" },
+    { "date": "2011" },
+    { "date": "2013" },
+    { "date": "2014" },
+    { "date": "2016" },
+    { "date": "2019" },
+    { "date": "2019" },
+    { "date": "2021" },
+    { "date": "2021" },
+    { "date": "2022" }
+  ],
+  "mainDE": [
+    {
+      "title": "Gründung der Pollmeier Leimholz GmbH",
+      "text": "Leimholzplattenproduktion (Fichte, Kiefer, Buche, Eiche und Erle) als Kunde der Sägewerksindustrie.",
+      "img": "1988.webp"
+    },
+    {
+      "title": "Produktionsstart im Sägewerk Creuzburg",
+      "text": "Qualitätsprobleme (Farbe/Holzfeuchte) der bisherigen Lieferanten waren der Grund, ein eigenes Sägewerk zu gründen.",
+      "img": "1996.webp"
+    },
+    {
+      "title": "Erweiterung der Produktionskapazität",
+      "text": "Die Holzart \"Buche\" entwickelt sich vom Brennholz zum Trendholz.",
+      "img": "1997.webp"
+    },
+    {
+      "title": "Pollmeier wird Teilhaber an Hanses Sägewerktechnik GmbH & Co. KG",
+      "text": "Mit eigenem Know-how entsteht leistungsstarke Sägewerkstechnik.",
+      "img": "2000.webp"
+    },
+    {
+      "title": "Gründung eines zweiten Sägewerksstandort in Malchow",
+      "text": "Die Einschnittskapazität liegt bei rund 300.000 fm Rundholz.",
+      "img": "2000_2.webp"
+    },
+    {
+      "title": "Pollmeier beteiligt sich an der Thaler & Pacher GmbH",
+      "text": "Das Unternehmen aus Österreich ist spezialisiert auf Steuerungstechnik.",
+      "img": "2001.webp"
+    },
+    {
+      "title": "Eröffnung des neuen Verwaltungsgebäudes am Standort Creuzburg",
+      "text": "Das Gebäude schafft optimale Arbeitsplatzbedingungen bei einem Höchstmaß an Energieeffizienz. 2002 wurde es mit dem Deutschen Fassadenpreis ausgezeichnet.",
+      "img": "2001_2.webp"
+    },
+    {
+      "title": "Ausbau des weltweiten Vertriebsnetzes",
+      "text": "Neben der Zentrale entstehen Verkaufsbüros in Polen, China und den USA.",
+      "img": "2001_3.webp"
+    },
+    {
+      "title": "Erweiterung Produktionskapazitäten am Standort Creuzburg",
+      "text": "",
+      "img": "2005.webp"
+    },
+    {
+      "title": "Produktionsbeginn am dritten Pollmeier Sägewerk in Aschaffenburg",
+      "text": "Pollmeier wird zu einem der größten Laubholzsägewerke weltweit.",
+      "img": "2007.webp"
+    },
+    {
+      "title": "Sägewerk Malchow wird wegen mangelnder Rundholzversorgung geschlossen ",
+      "text": "",
+      "img": "2011.webp"
+    },
+    {
+      "title": "Bau des ersten Furnierschichtholzwerks zur Laubholzverarbeitung in Creuzburg",
+      "text": "Pollmeier errichtet die weltweit erste BuchenFurnierschichtholz-Produktion mit innovativem kontinuierlichem Produktionsprozess.",
+      "img": "2013.webp"
+    },
+    {
+      "title": "Markteinführung des Buchenfurnierschichtholzes \"BauBuche\"",
+      "text": "Ein nachhaltiger Baustoff mit kleinem Querschnitt, hoher Festigkeit und überlegener Formstabilität, Homogenität sowie Tragfähigkeit im Vergleich zu herkömmlichen Holzbaustoffen",
+      "img": "2014.webp"
+    },
+    {
+      "title": "Wiedereröffnung des Sägewerks Malchow",
+      "text": "",
+      "img": "2016.webp"
+    },
+    {
+      "title": "Markteinführung des Fichtenfurnierschichtholzes \"Fichte LVL\"",
+      "text": "Fichte LVL ist ein leistungsstarker Baustoff im internationalen Holzbau für höchste Anforderungen - auch bei Brand- oder Erdbebenlasten.",
+      "img": "2019.webp"
+    },
+    {
+      "title": "Markteinführung von \"Pollmeier COMPONENTS\" (Buche Massivholz-Zuschnitt)",
+      "text": "Pollmeier beginnt mit der Produktion von Pollmeier COMPONENTS auf der Zuschnittanlage im Werk Aschaffenburg.",
+      "img": "2019_2.webp"
+    },
+    {
+      "title": "Pollmeier wird Eigentümer von Hanses Sägewerktechnik GmbH & Co. KG",
+      "text": "Umfirmierung in \"Pollmeier Maschinenbau GmbH & Co. KG\". Die Übernahme ermöglicht eine Eigenproduktion modernster digitaler Sägewerkstechnik.",
+      "img": "2021.webp"
+    },
+    {
+      "title": "Erweiterung der Produktionskapazitäten im Werk Aschaffenburg",
+      "text": "Pollmeier investiert über 30 Millionen Euro in \"Pollmeier COMPONENTS\".",
+      "img": "2021_2.webp"
+    },
+    {
+      "title": "Errichtung des neuen Hochregallagers am Standort Aschaffenburg",
+      "text": "Das Hochregallager mit 20.000 Stellplätzen ermöglicht eine Lieferung innerhalb einer Woche nach Auftragseingang.",
+      "img": "2022.webp"
+    }
+  ],
+  "mainEN": [
+    {
+      "title": "Foundation of Pollmeier Leimholz GmbH",
+      "text": "Production of edge-glued panels sourcing timber (spruce, pine, beech, oak and alder) from sawmills.",
+      "img": "1988.webp"
+    },
+    {
+      "title": "Official opening of Creuzburg sawmill",
+      "text": "Quality issues (hue/humidity of timber) with the existing suppliers lead Pollmeier to set up its own sawmill.",
+      "img": "1996.webp"
+    },
+    {
+      "title": "Fast expansion of production",
+      "text": "Beech turns from firewood to trendy wood.",
+      "img": "1997.webp"
+    },
+    {
+      "title": "Pollmeier becomes shareholder of Hanses Sägewerkstechnik GmbH & Co.KG",
+      "text": "Pollmeier's know-how helps advance sawing technology.",
+      "img": "2000.webp"
+    },
+    {
+      "title": "Start of production at second sawmill in Malchow",
+      "text": "The sawing capacity is around 300,000 solid cubic meters of round wood.",
+      "img": "2000_2.webp"
+    },
+    {
+      "title": "Pollmeier acquires a stake in Thaler & Pacher GmbH",
+      "text": "The Austrian company specializes in control technology.",
+      "img": "2001.webp"
+    },
+    {
+      "title": "Opening of new administrative offices in Creuzburg",
+      "text": "The building creates optimal working conditions with a maximum of energy efficiency. In 2002, it was awarded the German Facade Prize.",
+      "img": "2001_2.webp"
+    },
+    {
+      "title": "Expansion of global sales network",
+      "text": "Pollmeier opens sales offices in Poland, China, and the USA.",
+      "img": "2001_3.webp"
+    },
+    {
+      "title": "Expansion of production capacity at Creuzburg plant",
+      "text": "",
+      "img": "2005.webp"
+    },
+    {
+      "title": "Production start-up at third Pollmeier sawmill in Aschaffenburg",
+      "text": "Pollmeier becomes one of the largest hardwood sawmill operators worldwide.",
+      "img": "2007.webp"
+    },
+    {
+      "title": "Closure of Malchow sawmill due to insufficient log timber supply",
+      "text": "",
+      "img": "2011.webp"
+    },
+    {
+      "title": "Construction of first laminated veneer lumber (LVL) plant for hardwood in Creuzburg",
+      "text": "Pollmeier erects the world's first beech laminated veneer lumber production with an innovative continuous production process.",
+      "img": "2013.webp"
+    },
+    {
+      "title": "Launch of \"BauBuche\" beech laminated veneer lumber",
+      "text": "A sustainable building material with a small cross-section, high strength, and superior dimensional stability, homogeneity, and load-bearing capacity compared to conventional wood building materials.",
+      "img": "2014.webp"
+    },
+    {
+      "title": "Reopening of Malchow sawmill",
+      "text": "",
+      "img": "2016.webp"
+    },
+    {
+      "title": "Launch of \"Spruce LVL\" at LVL plant in Creuzburg",
+      "text": "Spruce LVL is a high-performance building material in international timber construction for the highest requirements - even under fire or earthquake loads.",
+      "img": "2019.webp"
+    },
+    {
+      "title": "Launch of \"Pollmeier COMPONENTS\" solid beech cut-to-size lumber",
+      "text": "Pollmeier starts the production of Pollmeier COMPONENTS at the cut-to-size line at Aschaffenburg plant.",
+      "img": "2019_2.webp"
+    },
+    {
+      "title": "Pollmeier becomes owner of Hanses Sägewerkstechnik GmbH & Co.KG",
+      "text": "\"Hanses Sägewerkstechnik GmbH & Co.KG\" is renamed to \"Pollmeier Maschinenbau GmbH & Co. KG\". The acquisition enables the in-house production of state-of-the-art digital sawmill technology.",
+      "img": "2021.webp"
+    },
+    {
+      "title": "Expansion of production capacity at Aschaffenburg plant",
+      "text": "Pollmeier invests over 30 million Euros in \"Pollmeier COMPONENTS\".",
+      "img": "2021_2.webp"
+    },
+    {
+      "title": "Construction of the new high-bay warehouse at the Aschaffenburg site",
+      "text": "The high-bay warehouse with 20,000 storage spaces enables delivery within one week of order receipt.",
+      "img": "2022.webp"
+    }
+  ]
+}
